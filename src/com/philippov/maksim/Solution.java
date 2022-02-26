@@ -147,6 +147,8 @@ public class Solution implements DatesToCronConverter {
     }
 
     public String getImplementationInfo() {
-        return "Филиппов Максим Леонидович, Solution, com.philippov.maksim";
+        return "Филиппов Максим Леонидович, " +
+                "Solution, com.philippov.maksim, " +
+                "https://github.com/maksimPhilippov/testTask.git";
     }
 }
